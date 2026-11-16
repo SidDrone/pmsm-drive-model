@@ -1,0 +1,7 @@
+*.asv
+*.slxc
+slprj/
+*.mexw64
+codegen/
+__pycache__/
+.venv/
